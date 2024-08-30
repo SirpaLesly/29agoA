@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+}
+.padre{
+    background-color: blue;
+    padding: 70px;
+    width: 70%;
+    height: 70%;
+    padding-bottom: 130px;
+    margin: 30px ;
+    border-radius: 50%;
+    display: flex;
+    
+
+
+}
+.nivel2{
+    background-color: red;
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 80px 50px 120px 50px;
+    padding: 20px;
+    
+}
+.nivel3{
+    background-color: yellow;
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+    padding: 20px;
+    margin: 10px;
+    
+}
+.nivel4{
+    background-color: greenyellow;
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 20px;
+    
+}
+.nivel5{
+    background-color: rgb(245, 148, 69);
+    height: 30px;
+    width: 20px; 
+    border-radius: 50%;
+    margin: 10px;
+    padding: 20px;
+    
+    
+}
+.nivel6{
+    background-color: gray;
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 20px;
+    
+    
+}
+.nivel7{
+    background-color: white;
+    height: 30px;
+    width: 20px;
+    border-radius: 50%;
+    margin: 10px;
+    padding: 20px;
+    
+}
